@@ -46,5 +46,26 @@ for (int i = 0; i < AmountOfCars; i++)
     }
 }
 
-Console.WriteLine(cars.Count);
+Console.Clear();
+Console.WriteLine("Time to examine the cars");
+
+//for every car we have, we say if it has contraband or not
+for (int i = 0; i < AmountOfCars; i++)
+{
+    Console.WriteLine($"Examining car {i+1}");
+    bool temp = cars[i].Examine();
+    if (temp == true)
+    {
+        Console.WriteLine("car had contraband");
+    }
+    else
+    {
+        Console.WriteLine("Car had no contraband, or escaped with it");
+    }
+    Console.WriteLine("\nPress any key to continue");
+    Console.ReadLine();
+    Console.Clear();
+}
+
+Console.WriteLine("You examined all cars!");
 Console.ReadLine();
