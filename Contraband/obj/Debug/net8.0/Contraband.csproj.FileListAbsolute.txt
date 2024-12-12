@@ -1,0 +1,15 @@
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\bin\Debug\net8.0\Contraband.exe
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\bin\Debug\net8.0\Contraband.deps.json
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\bin\Debug\net8.0\Contraband.runtimeconfig.json
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\bin\Debug\net8.0\Contraband.dll
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\bin\Debug\net8.0\Contraband.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.AssemblyInfoInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.AssemblyInfo.cs
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.csproj.CoreCompileInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.sourcelink.json
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.dll
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\refint\Contraband.dll
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\Contraband.genruntimeconfig.cache
+C:\Users\neo.rosenlund\Documents\Prog2Eprov2\Contraband\obj\Debug\net8.0\ref\Contraband.dll
